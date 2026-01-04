@@ -116,7 +116,14 @@ First project, first principle: "Deadlines are life, quality is pride" · Engine
 - 📧 Email: morningjava@naver.com
 
 ---
+## 🌟 [영감을 주신 고마운 분들](./INSPIRATIONS.md)
 
+개발자로서의 여정에서 영감과 배움을 주신 훌륭한 개발자들을 정리했습니다.  
+Python, AI, Frontend, DevOps 등 다양한 분야의 거장들과 그들의 주요 프로젝트를 소개합니다.
+
+👉 **[INSPIRATIONS.md 보러가기](./INSPIRATIONS.md)**
+
+---
 ---
 
 💭 _"Code is craft. Data is sovereignty. Engineering is philosophy."_  
@@ -243,7 +250,14 @@ $6.4조 AUM / $16.4조 AUA 시스템 관리 · 글로벌 금융의 데이터 주
 - 📧 Email: morningjava@naver.com
 
 ---
+## 🌟 [영감을 주신 고마운 분들](./INSPIRATIONS.md)
 
+개발자로서의 여정에서 영감과 배움을 주신 훌륭한 개발자들을 정리했습니다.  
+Python, AI, Frontend, DevOps 등 다양한 분야의 거장들과 그들의 주요 프로젝트를 소개합니다.
+
+👉 **[INSPIRATIONS.md 보러가기](./INSPIRATIONS.md)**
+
+---
 ---
 
 💭 _"코드는 장인정신이다. 데이터는 주권이다. 엔지니어링은 철학이다."_  
