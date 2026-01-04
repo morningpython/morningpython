@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alan Lee
 
-**Conductor of Human-AI Symphony · Engineering Architect · AI Strategist**  
+**Composer & Conductor of Human-AI Symphony · Engineering Architect · AI Strategist**  
 Orchestrating systems across Samsung, Microsoft, Fidelity — from manufacturing floors to global platforms managing trillions in assets.
 
 📍 Dallas, TX · 🏢 Fidelity Investments  
@@ -127,7 +127,7 @@ First project, first principle: "Deadlines are life, quality is pride" · Engine
 
 # 👋 안녕하세요, Alan Lee입니다
 
-**인간-AI 심포니의 지휘자 · Engineering Architect · AI 전략가**  
+**인간-AI 심포니의 작곡가, 지휘자 · Engineering Architect · AI 전략가**  
 Samsung, Microsoft, Fidelity를 거쳐 25년간 시스템을 지휘해온 엔지니어 — 제조 현장부터 수조 달러 자산을 관리하는 글로벌 플랫폼까지.
 
 📍 Dallas, TX · 🏢 Fidelity Investments  
