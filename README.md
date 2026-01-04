@@ -113,7 +113,7 @@ First project, first principle: "Deadlines are life, quality is pride" · Engine
 
 ## 📫 Contact
 
-- 📧 Email: morningjava@nave.com
+- 📧 Email: morningjava@naver.com
 
 ---
 
