@@ -11,7 +11,7 @@ Orchestrating systems across Samsung, Microsoft, Fidelity — from manufacturing
 
 ## 🏛️ Engineering Philosophy
 
-**"Deadlines are life. Quality is pride."** — From Samsung SDS to Fidelity, this principle has guided 25 years of systems architecture.
+**"Deadlines are life. Quality is pride."** — From Samsung SDS to Fidelity, this principle has guided more than two decades of systems architecture.
 
 **Humanity as the Conductor** — AI is not a replacement, but an instrument. Like an orchestra where each musician—violinist, cellist, pianist—requires unique tactics to maximize potential, engineers must orchestrate AI systems with delicate precision. The goal: works that are richer, deeper, and more resonant than ever before.
 
@@ -128,7 +128,7 @@ First project, first principle: "Deadlines are life, quality is pride" · Engine
 # 👋 안녕하세요, Alan Lee입니다
 
 **인간-AI 심포니의 작곡가, 지휘자 · Engineering Architect · AI 전략가**  
-Samsung, Microsoft, Fidelity를 거쳐 25년간 시스템을 지휘해온 엔지니어 — 제조 현장부터 수조 달러 자산을 관리하는 글로벌 플랫폼까지.
+Samsung, Microsoft, Fidelity를 거쳐 강산이 여러번 변할 동안 시스템을 지휘해온 엔지니어 — 제조 현장부터 수조 달러 자산을 관리하는 글로벌 플랫폼까지.
 
 📍 Dallas, TX · 🏢 Fidelity Investments  
 🎯 기초과학과 산업 장인정신을 융합한 주권 AI 시스템 구축  
