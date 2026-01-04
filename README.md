@@ -116,14 +116,16 @@ First project, first principle: "Deadlines are life, quality is pride" · Engine
 - 📧 Email: morningjava@naver.com
 
 ---
-## 🌟 [영감을 주신 고마운 분들](./INSPIRATIONS.md)
 
-개발자로서의 여정에서 영감과 배움을 주신 훌륭한 개발자들을 정리했습니다.  
-Python, AI, Frontend, DevOps 등 다양한 분야의 거장들과 그들의 주요 프로젝트를 소개합니다.
+## 🌟 [Inspirations](./INSPIRATIONS.md)
 
-👉 **[INSPIRATIONS.md 보러가기](./INSPIRATIONS.md)**
+A curated collection of brilliant developers who have inspired my journey.  
+Featuring masters across Python, AI, Frontend, DevOps, and more with their groundbreaking projects.
+
+👉 **[Read INSPIRATIONS.md](./INSPIRATIONS.md)**
 
 ---
+
 ---
 
 💭 _"Code is craft. Data is sovereignty. Engineering is philosophy."_  

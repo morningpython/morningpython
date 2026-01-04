@@ -1,0 +1,977 @@
+﻿{
+    "simonw":  {
+                   "name":  "Simon Willison",
+                   "blog":  "https://simonwillison.net/",
+                   "company":  "Datasette",
+                   "location":  "Half Moon Bay, California",
+                   "topRepos":  [
+                                    {
+                                        "name":  "test-csv",
+                                        "description":  "Testing a CSV thing",
+                                        "stargazers_count":  0,
+                                        "html_url":  "https://github.com/simonw/test-csv"
+                                    },
+                                    {
+                                        "name":  "sqlite-s3vfs",
+                                        "description":  "Recovered from https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/uktrade/sqlite-s3vfs",
+                                        "stargazers_count":  35,
+                                        "html_url":  "https://github.com/simonw/sqlite-s3vfs"
+                                    },
+                                    {
+                                        "name":  "miniPaint",
+                                        "description":  "online image editor",
+                                        "stargazers_count":  4,
+                                        "html_url":  "https://github.com/simonw/miniPaint"
+                                    },
+                                    {
+                                        "name":  "datasette-turnstile",
+                                        "description":  "Configurable CAPTCHAs for Datasette paths using Cloudflare Turnstile",
+                                        "stargazers_count":  2,
+                                        "html_url":  "https://github.com/simonw/datasette-turnstile"
+                                    },
+                                    {
+                                        "name":  "skills",
+                                        "description":  "Skills for coding agents",
+                                        "stargazers_count":  28,
+                                        "html_url":  "https://github.com/simonw/skills"
+                                    }
+                                ],
+                   "bio":  null
+               },
+    "trishume":  {
+                     "name":  "Tristan Hume",
+                     "blog":  "http://thume.ca/",
+                     "company":  null,
+                     "location":  "San Francisco",
+                     "topRepos":  [
+                                      {
+                                          "name":  "zed",
+                                          "description":  "Code at the speed of thought ??Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+                                          "stargazers_count":  1,
+                                          "html_url":  "https://github.com/trishume/zed"
+                                      },
+                                      {
+                                          "name":  "jax",
+                                          "description":  "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+                                          "stargazers_count":  1,
+                                          "html_url":  "https://github.com/trishume/jax"
+                                      },
+                                      {
+                                          "name":  "vscode",
+                                          "description":  "Visual Studio Code",
+                                          "stargazers_count":  1,
+                                          "html_url":  "https://github.com/trishume/vscode"
+                                      },
+                                      {
+                                          "name":  "perftrace",
+                                          "description":  "Trace instruction execution using perf breakpoints in Python",
+                                          "stargazers_count":  20,
+                                          "html_url":  "https://github.com/trishume/perftrace"
+                                      },
+                                      {
+                                          "name":  "vscode-jupyter",
+                                          "description":  "VS Code Jupyter extension",
+                                          "stargazers_count":  0,
+                                          "html_url":  "https://github.com/trishume/vscode-jupyter"
+                                      }
+                                  ],
+                     "bio":  "Open source enthusiast. Projects in Rust, Ruby, C++, JS, Objective-C and more."
+                 },
+    "karpathy":  {
+                     "name":  "Andrej",
+                     "blog":  "https://twitter.com/karpathy",
+                     "company":  null,
+                     "location":  "Stanford",
+                     "topRepos":  [
+                                      {
+                                          "name":  "rustbpe",
+                                          "description":  "The missing tiktoken training code",
+                                          "stargazers_count":  159,
+                                          "html_url":  "https://github.com/karpathy/rustbpe"
+                                      },
+                                      {
+                                          "name":  "hn-time-capsule",
+                                          "description":  "Analyzing Hacker News discussions from a decade ago in hindsight with LLMs",
+                                          "stargazers_count":  531,
+                                          "html_url":  "https://github.com/karpathy/hn-time-capsule"
+                                      },
+                                      {
+                                          "name":  "cpython",
+                                          "description":  "The Python programming language",
+                                          "stargazers_count":  32,
+                                          "html_url":  "https://github.com/karpathy/cpython"
+                                      },
+                                      {
+                                          "name":  "llm-council",
+                                          "description":  "LLM Council works together to answer your hardest questions",
+                                          "stargazers_count":  12644,
+                                          "html_url":  "https://github.com/karpathy/llm-council"
+                                      },
+                                      {
+                                          "name":  "reader3",
+                                          "description":  "Quick illustration of how one can easily read books together with LLMs. It\u0027s great and I highly recommend it.",
+                                          "stargazers_count":  2743,
+                                          "html_url":  "https://github.com/karpathy/reader3"
+                                      }
+                                  ],
+                     "bio":  "I like to train Deep Neural Nets on large datasets."
+                 },
+    "mnielsen":  {
+                     "name":  "Michael Nielsen",
+                     "blog":  "http://michaelnielsen.org",
+                     "company":  null,
+                     "location":  "San Francisco, California",
+                     "topRepos":  [
+                                      {
+                                          "name":  "rmnist",
+                                          "description":  "Some examples trained on very reduced versions of the MNIST training set",
+                                          "stargazers_count":  47,
+                                          "html_url":  "https://github.com/mnielsen/rmnist"
+                                      },
+                                      {
+                                          "name":  "magic_paper",
+                                          "description":  "Experiments in an explorable visual medium for mathematics",
+                                          "stargazers_count":  264,
+                                          "html_url":  "https://github.com/mnielsen/magic_paper"
+                                      },
+                                      {
+                                          "name":  "textvae",
+                                          "description":  "Theano code for experiments in the paper \"A Hybrid Convolutional Variational Autoencoder for Text Generation.\"",
+                                          "stargazers_count":  4,
+                                          "html_url":  "https://github.com/mnielsen/textvae"
+                                      },
+                                      {
+                                          "name":  "iGAN",
+                                          "description":  "Interactive Image Generation via Generative Adversarial Networks",
+                                          "stargazers_count":  8,
+                                          "html_url":  "https://github.com/mnielsen/iGAN"
+                                      },
+                                      {
+                                          "name":  "DCGAN-tensorflow",
+                                          "description":  "A tensorflow implementation of \"Deep Convolutional Generative Adversarial Networks\"",
+                                          "stargazers_count":  11,
+                                          "html_url":  "https://github.com/mnielsen/DCGAN-tensorflow"
+                                      }
+                                  ],
+                     "bio":  "Searching for the numinous"
+                 },
+    "mitsuhiko":  {
+                      "name":  "Armin Ronacher",
+                      "blog":  "https://lucumr.pocoo.org/",
+                      "company":  "Earendil",
+                      "location":  "Austria",
+                      "topRepos":  [
+                                       {
+                                           "name":  "tankgame",
+                                           "description":  "Opus builds a tank game",
+                                           "stargazers_count":  9,
+                                           "html_url":  "https://github.com/mitsuhiko/tankgame"
+                                       },
+                                       {
+                                           "name":  "shittycodingagent.ai",
+                                           "description":  null,
+                                           "stargazers_count":  1,
+                                           "html_url":  "https://github.com/mitsuhiko/shittycodingagent.ai"
+                                       },
+                                       {
+                                           "name":  "gh-issue-sync",
+                                           "description":  "A github issue sync tool for working with issues locally",
+                                           "stargazers_count":  84,
+                                           "html_url":  "https://github.com/mitsuhiko/gh-issue-sync"
+                                       },
+                                       {
+                                           "name":  "ronacher.eu",
+                                           "description":  "Just a website",
+                                           "stargazers_count":  2,
+                                           "html_url":  "https://github.com/mitsuhiko/ronacher.eu"
+                                       },
+                                       {
+                                           "name":  "dark",
+                                           "description":  null,
+                                           "stargazers_count":  3,
+                                           "html_url":  "https://github.com/mitsuhiko/dark"
+                                       }
+                                   ],
+                      "bio":  "Software developer and Open Source nut. Creator of the Flask framework. Founder of @earendil-works. Other things of interest: @pallets and @getsentry"
+                  },
+    "petewarden":  {
+                       "name":  "Pete Warden",
+                       "blog":  "http://petewarden.com/",
+                       "company":  "Google",
+                       "location":  "San Francisco, CA",
+                       "topRepos":  [
+                                        {
+                                            "name":  "moonshine-js",
+                                            "description":  "Fast and accurate on-device speech-to-text for web pages and web applications.",
+                                            "stargazers_count":  0,
+                                            "html_url":  "https://github.com/petewarden/moonshine-js"
+                                        },
+                                        {
+                                            "name":  "moonshine",
+                                            "description":  "Fast and accurate automatic speech recognition (ASR) for edge devices",
+                                            "stargazers_count":  0,
+                                            "html_url":  "https://github.com/petewarden/moonshine"
+                                        },
+                                        {
+                                            "name":  "moonshine_website",
+                                            "description":  null,
+                                            "stargazers_count":  0,
+                                            "html_url":  "https://github.com/petewarden/moonshine_website"
+                                        },
+                                        {
+                                            "name":  "inkplate_calendar",
+                                            "description":  "Day and date app for Inkplate 4Tempera, designed to have a long battery life",
+                                            "stargazers_count":  0,
+                                            "html_url":  "https://github.com/petewarden/inkplate_calendar"
+                                        },
+                                        {
+                                            "name":  "Inkplate-micropython",
+                                            "description":  "Micropython driver for Inkplate boards",
+                                            "stargazers_count":  1,
+                                            "html_url":  "https://github.com/petewarden/Inkplate-micropython"
+                                        }
+                                    ],
+                       "bio":  null
+                   },
+    "harthur":  {
+                    "name":  "Heather Arthur",
+                    "blog":  "",
+                    "company":  null,
+                    "location":  "New York, NY",
+                    "topRepos":  [
+                                     {
+                                         "name":  "airflow",
+                                         "description":  "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/harthur/airflow"
+                                     },
+                                     {
+                                         "name":  "tract",
+                                         "description":  "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/harthur/tract"
+                                     },
+                                     {
+                                         "name":  "astroplan",
+                                         "description":  "Observation planning package for astronomers",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/harthur/astroplan"
+                                     },
+                                     {
+                                         "name":  "snips-nlu",
+                                         "description":  "Snips Python library to extract meaning from text",
+                                         "stargazers_count":  1,
+                                         "html_url":  "https://github.com/harthur/snips-nlu"
+                                     },
+                                     {
+                                         "name":  "celestial-snips-app",
+                                         "description":  "Snips voice assistant that answers celestial questions",
+                                         "stargazers_count":  3,
+                                         "html_url":  "https://github.com/harthur/celestial-snips-app"
+                                     }
+                                 ],
+                    "bio":  null
+                },
+    "kewlbear":  {
+                     "name":  "Changbeom Ahn",
+                     "blog":  "http://stackoverflow.com/users/2570853/cahn",
+                     "company":  "Blueoceansoft",
+                     "location":  "Seoul",
+                     "topRepos":  [
+                                      {
+                                          "name":  "fruit-fallin-assets",
+                                          "description":  null,
+                                          "stargazers_count":  0,
+                                          "html_url":  "https://github.com/kewlbear/fruit-fallin-assets"
+                                      },
+                                      {
+                                          "name":  "fruit-fallin",
+                                          "description":  null,
+                                          "stargazers_count":  0,
+                                          "html_url":  "https://github.com/kewlbear/fruit-fallin"
+                                      },
+                                      {
+                                          "name":  "minesweeper",
+                                          "description":  null,
+                                          "stargazers_count":  1,
+                                          "html_url":  "https://github.com/kewlbear/minesweeper"
+                                      },
+                                      {
+                                          "name":  "AdventOfCode",
+                                          "description":  "Swift濡???대낫??Advent of Code",
+                                          "stargazers_count":  1,
+                                          "html_url":  "https://github.com/kewlbear/AdventOfCode"
+                                      },
+                                      {
+                                          "name":  "FFmpeg-iOS-Lame",
+                                          "description":  null,
+                                          "stargazers_count":  12,
+                                          "html_url":  "https://github.com/kewlbear/FFmpeg-iOS-Lame"
+                                      }
+                                  ],
+                     "bio":  "iOS developer with experiences in Android, Web, Win32 and UNIX programming"
+                 },
+    "nvie":  {
+                 "name":  "Vincent Driessen",
+                 "blog":  "http://nvie.com",
+                 "company":  "@liveblocks",
+                 "location":  "The Netherlands",
+                 "topRepos":  [
+                                  {
+                                      "name":  "tosti",
+                                      "description":  "Tosti: a new kind of composable assertion library that\u0027s a joy to use.",
+                                      "stargazers_count":  2,
+                                      "html_url":  "https://github.com/nvie/tosti"
+                                  },
+                                  {
+                                      "name":  "ai",
+                                      "description":  "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+                                      "stargazers_count":  0,
+                                      "html_url":  "https://github.com/nvie/ai"
+                                  },
+                                  {
+                                      "name":  "gridfinity",
+                                      "description":  null,
+                                      "stargazers_count":  0,
+                                      "html_url":  "https://github.com/nvie/gridfinity"
+                                  },
+                                  {
+                                      "name":  "standard-schema",
+                                      "description":  "A standard interface for TypeScript schema validation libraries",
+                                      "stargazers_count":  0,
+                                      "html_url":  "https://github.com/nvie/standard-schema"
+                                  },
+                                  {
+                                      "name":  "vim-ast-generator",
+                                      "description":  "Vim syntax highlighter definitions for ast-generator files",
+                                      "stargazers_count":  0,
+                                      "html_url":  "https://github.com/nvie/vim-ast-generator"
+                                  }
+                              ],
+                 "bio":  "Simplifying things for fun and profit."
+             },
+    "developit":  {
+                      "name":  "Jason Miller",
+                      "blog":  "https://jasonformat.com",
+                      "company":  "@Shopify",
+                      "location":  "Hamilton, Ontario, Canada",
+                      "topRepos":  [
+                                       {
+                                           "name":  "mcp-cmd",
+                                           "description":  "CLI for calling successive MCP Server tools",
+                                           "stargazers_count":  20,
+                                           "html_url":  "https://github.com/developit/mcp-cmd"
+                                       },
+                                       {
+                                           "name":  "jtd-ts",
+                                           "description":  "typescript first jtd validator",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/developit/jtd-ts"
+                                       },
+                                       {
+                                           "name":  "rmapi-js",
+                                           "description":  "JavaScript implementation of the reMarkable api",
+                                           "stargazers_count":  1,
+                                           "html_url":  "https://github.com/developit/rmapi-js"
+                                       },
+                                       {
+                                           "name":  "react-router",
+                                           "description":  "Declarative routing for React",
+                                           "stargazers_count":  1,
+                                           "html_url":  "https://github.com/developit/react-router"
+                                       },
+                                       {
+                                           "name":  "microbundle-2",
+                                           "description":  null,
+                                           "stargazers_count":  47,
+                                           "html_url":  "https://github.com/developit/microbundle-2"
+                                       }
+                                   ],
+                      "bio":  "Creator of @preactjs. DX @Shopify."
+                  },
+    "hunkim":  {
+                   "name":  "Sung Kim",
+                   "blog":  "http://www.cse.ust.hk/~hunkim",
+                   "company":  "HKUST ",
+                   "location":  "Hong Kong",
+                   "topRepos":  [
+                                    {
+                                        "name":  "solar-slack-summary",
+                                        "description":  null,
+                                        "stargazers_count":  0,
+                                        "html_url":  "https://github.com/hunkim/solar-slack-summary"
+                                    },
+                                    {
+                                        "name":  "solar-external-search-demo",
+                                        "description":  null,
+                                        "stargazers_count":  0,
+                                        "html_url":  "https://github.com/hunkim/solar-external-search-demo"
+                                    },
+                                    {
+                                        "name":  "node-scholarly",
+                                        "description":  null,
+                                        "stargazers_count":  2,
+                                        "html_url":  "https://github.com/hunkim/node-scholarly"
+                                    },
+                                    {
+                                        "name":  "docuproof",
+                                        "description":  null,
+                                        "stargazers_count":  0,
+                                        "html_url":  "https://github.com/hunkim/docuproof"
+                                    },
+                                    {
+                                        "name":  "soalr-proxy-vercel",
+                                        "description":  null,
+                                        "stargazers_count":  0,
+                                        "html_url":  "https://github.com/hunkim/soalr-proxy-vercel"
+                                    }
+                                ],
+                   "bio":  "Teaches Computer Science at HKUST."
+               },
+    "sindresorhus":  {
+                         "name":  "Sindre Sorhus",
+                         "blog":  "https://sindresorhus.com/apps",
+                         "company":  null,
+                         "location":  null,
+                         "topRepos":  [
+                                          {
+                                              "name":  "supports-terminal-graphics",
+                                              "description":  "Detect which terminal graphics protocols are supported (Kitty, iTerm2, Sixel)",
+                                              "stargazers_count":  3,
+                                              "html_url":  "https://github.com/sindresorhus/supports-terminal-graphics"
+                                          },
+                                          {
+                                              "name":  "powershell-utils",
+                                              "description":  "Utilities for executing PowerShell commands",
+                                              "stargazers_count":  31,
+                                              "html_url":  "https://github.com/sindresorhus/powershell-utils"
+                                          },
+                                          {
+                                              "name":  "is-in-ssh",
+                                              "description":  "Check if the process is running in an SSH session",
+                                              "stargazers_count":  23,
+                                              "html_url":  "https://github.com/sindresorhus/is-in-ssh"
+                                          },
+                                          {
+                                              "name":  "reveal-file",
+                                              "description":  "Reveal a file in the system file manager (Finder, Explorer, etc.)",
+                                              "stargazers_count":  37,
+                                              "html_url":  "https://github.com/sindresorhus/reveal-file"
+                                          },
+                                          {
+                                              "name":  "url-extras",
+                                              "description":  "Browser-compatible implementations of some of Node.js\u0027 URL utilities",
+                                              "stargazers_count":  16,
+                                              "html_url":  "https://github.com/sindresorhus/url-extras"
+                                          }
+                                      ],
+                         "bio":  "Full-Time Open-Sourcerer. Focused on Swift \u0026 JavaScript. Makes macOS apps, CLI tools, npm packages."
+                     },
+    "wagoodman":  {
+                      "name":  "Alex Goodman",
+                      "blog":  "",
+                      "company":  "@anchore ",
+                      "location":  "Alexandria, VA",
+                      "topRepos":  [
+                                       {
+                                           "name":  "oss-docs",
+                                           "description":  "Anchore OSS Documentation",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/wagoodman/oss-docs"
+                                       },
+                                       {
+                                           "name":  "tablewriter",
+                                           "description":  "ASCII table in golang",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/wagoodman/tablewriter"
+                                       },
+                                       {
+                                           "name":  "squashfs",
+                                           "description":  "A library to interact with Squashfs archives. Currently only has support for reading, but writing archives will probably come eventually.",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/wagoodman/squashfs"
+                                       },
+                                       {
+                                           "name":  "go-diskfs",
+                                           "description":  null,
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/wagoodman/go-diskfs"
+                                       },
+                                       {
+                                           "name":  "easyjson",
+                                           "description":  "Fast JSON serializer for golang.",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/wagoodman/easyjson"
+                                       }
+                                   ],
+                      "bio":  "www.linkedin.com/in/alexgoodman87"
+                  },
+    "Rich-Harris":  {
+                        "name":  "Rich Harris",
+                        "blog":  "",
+                        "company":  null,
+                        "location":  "NYC",
+                        "topRepos":  [
+                                         {
+                                             "name":  "livestore",
+                                             "description":  "LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.",
+                                             "stargazers_count":  14,
+                                             "html_url":  "https://github.com/Rich-Harris/livestore"
+                                         },
+                                         {
+                                             "name":  "kit-14444",
+                                             "description":  "repro for https://github.com/sveltejs/kit/issues/14444",
+                                             "stargazers_count":  1,
+                                             "html_url":  "https://github.com/Rich-Harris/kit-14444"
+                                         },
+                                         {
+                                             "name":  "sveltekit-superforms",
+                                             "description":  "Making SvelteKit forms a pleasure to use!",
+                                             "stargazers_count":  4,
+                                             "html_url":  "https://github.com/Rich-Harris/sveltekit-superforms"
+                                         },
+                                         {
+                                             "name":  "nuxt",
+                                             "description":  "The Intuitive Vue Framework.",
+                                             "stargazers_count":  2,
+                                             "html_url":  "https://github.com/Rich-Harris/nuxt"
+                                         },
+                                         {
+                                             "name":  "vite-plugin-devtools-json",
+                                             "description":  "Vite plugin for generating `com.chrome.devtools.json` on the fly in the devserver.",
+                                             "stargazers_count":  0,
+                                             "html_url":  "https://github.com/Rich-Harris/vite-plugin-devtools-json"
+                                         }
+                                     ],
+                        "bio":  null
+                    },
+    "antonmedv":  {
+                      "name":  "Anton Medvedev",
+                      "blog":  "https://medv.io",
+                      "company":  null,
+                      "location":  "Switzerland",
+                      "topRepos":  [
+                                       {
+                                           "name":  "textarea",
+                                           "description":  "A minimalist text editor that lives in URL",
+                                           "stargazers_count":  1333,
+                                           "html_url":  "https://github.com/antonmedv/textarea"
+                                       },
+                                       {
+                                           "name":  "srf",
+                                           "description":  "A file server",
+                                           "stargazers_count":  14,
+                                           "html_url":  "https://github.com/antonmedv/srf"
+                                       },
+                                       {
+                                           "name":  "gitmal",
+                                           "description":  "A static page generator for repos",
+                                           "stargazers_count":  1183,
+                                           "html_url":  "https://github.com/antonmedv/gitmal"
+                                       },
+                                       {
+                                           "name":  "medv",
+                                           "description":  null,
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/antonmedv/medv"
+                                       },
+                                       {
+                                           "name":  "gld",
+                                           "description":  null,
+                                           "stargazers_count":  1,
+                                           "html_url":  "https://github.com/antonmedv/gld"
+                                       }
+                                   ],
+                      "bio":  "Ex-Google, Ex-Aviasales"
+                  },
+    "paulmillr":  {
+                      "name":  "Paul Miller",
+                      "blog":  "https://paulmillr.com",
+                      "company":  null,
+                      "location":  null,
+                      "topRepos":  [
+                                       {
+                                           "name":  "ethstaker-deposit-cli",
+                                           "description":  "Secure key generation for deposits",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/paulmillr/ethstaker-deposit-cli"
+                                       },
+                                       {
+                                           "name":  "acvp-vectors",
+                                           "description":  "JSON-gzipped fork of ACVP-Server",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/paulmillr/acvp-vectors"
+                                       },
+                                       {
+                                           "name":  "dotfiles-vsix",
+                                           "description":  "Useful VSIX extensions for vscode, packed in one place",
+                                           "stargazers_count":  0,
+                                           "html_url":  "https://github.com/paulmillr/dotfiles-vsix"
+                                       },
+                                       {
+                                           "name":  "micro-zk-proofs",
+                                           "description":  "Create \u0026 verify zero-knowledge SNARK proofs in parallel, using noble cryptography",
+                                           "stargazers_count":  58,
+                                           "html_url":  "https://github.com/paulmillr/micro-zk-proofs"
+                                       },
+                                       {
+                                           "name":  "micro-wrkr",
+                                           "description":  "Wrappers for built-in Web Workers enabling easy parallel data processing",
+                                           "stargazers_count":  8,
+                                           "html_url":  "https://github.com/paulmillr/micro-wrkr"
+                                       }
+                                   ],
+                      "bio":  null
+                  },
+    "willmcgugan":  {
+                        "name":  "Will McGugan",
+                        "blog":  "https://willmcgugan.github.io/",
+                        "company":  null,
+                        "location":  "Edinburgh, UK",
+                        "topRepos":  [
+                                         {
+                                             "name":  "ny2026",
+                                             "description":  "New Year\u0027s Fireworks Simulator in your Terminal",
+                                             "stargazers_count":  35,
+                                             "html_url":  "https://github.com/willmcgugan/ny2026"
+                                         },
+                                         {
+                                             "name":  "pydantic-ai",
+                                             "description":  "Agent Framework / shim to use Pydantic with LLMs",
+                                             "stargazers_count":  1,
+                                             "html_url":  "https://github.com/willmcgugan/pydantic-ai"
+                                         },
+                                         {
+                                             "name":  "textual-speedups",
+                                             "description":  null,
+                                             "stargazers_count":  49,
+                                             "html_url":  "https://github.com/willmcgugan/textual-speedups"
+                                         },
+                                         {
+                                             "name":  "willmcgugan.github.io",
+                                             "description":  null,
+                                             "stargazers_count":  4,
+                                             "html_url":  "https://github.com/willmcgugan/willmcgugan.github.io"
+                                         },
+                                         {
+                                             "name":  "terminal-tree",
+                                             "description":  null,
+                                             "stargazers_count":  181,
+                                             "html_url":  "https://github.com/willmcgugan/terminal-tree"
+                                         }
+                                     ],
+                        "bio":  "I\u0027m a full-stack software developer and Python expert. Creator and maintainer of @Textualize \r\n\r\nCreator of Rich, Textual, and @PyFilesystem. "
+                    },
+    "davidhalter":  {
+                        "name":  "Dave Halter",
+                        "blog":  "",
+                        "company":  null,
+                        "location":  "Switzerland",
+                        "topRepos":  [
+                                         {
+                                             "name":  "typing",
+                                             "description":  "Python static typing home. Hosts the documentation and a user help forum.",
+                                             "stargazers_count":  1,
+                                             "html_url":  "https://github.com/davidhalter/typing"
+                                         },
+                                         {
+                                             "name":  "rust-for-python-developers",
+                                             "description":  "Slides for my talk at the Python Summit Switzerland 2022",
+                                             "stargazers_count":  6,
+                                             "html_url":  "https://github.com/davidhalter/rust-for-python-developers"
+                                         },
+                                         {
+                                             "name":  "mypy",
+                                             "description":  "Optional static typing for Python",
+                                             "stargazers_count":  0,
+                                             "html_url":  "https://github.com/davidhalter/mypy"
+                                         },
+                                         {
+                                             "name":  "django-stubs",
+                                             "description":  "PEP-484 stubs for Django",
+                                             "stargazers_count":  0,
+                                             "html_url":  "https://github.com/davidhalter/django-stubs"
+                                         },
+                                         {
+                                             "name":  "ipython",
+                                             "description":  "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+                                             "stargazers_count":  1,
+                                             "html_url":  "https://github.com/davidhalter/ipython"
+                                         }
+                                     ],
+                        "bio":  "Human"
+                    },
+    "kennethreitz":  {
+                         "name":  "Kenneth Reitz",
+                         "blog":  "kennethreitz.org",
+                         "company":  null,
+                         "location":  "Virginia, USA, Earth, Milky Way.",
+                         "topRepos":  [
+                                          {
+                                              "name":  "mcp-cmd",
+                                              "description":  "CLI for calling successive MCP Server tools",
+                                              "stargazers_count":  20,
+                                              "html_url":  "https://github.com/developit/mcp-cmd"
+                                          },
+                                          {
+                                              "name":  "jtd-ts",
+                                              "description":  "typescript first jtd validator",
+                                              "stargazers_count":  0,
+                                              "html_url":  "https://github.com/developit/jtd-ts"
+                                          },
+                                          {
+                                              "name":  "rmapi-js",
+                                              "description":  "JavaScript implementation of the reMarkable api",
+                                              "stargazers_count":  1,
+                                              "html_url":  "https://github.com/developit/rmapi-js"
+                                          },
+                                          {
+                                              "name":  "react-router",
+                                              "description":  "Declarative routing for React",
+                                              "stargazers_count":  1,
+                                              "html_url":  "https://github.com/developit/react-router"
+                                          },
+                                          {
+                                              "name":  "microbundle-2",
+                                              "description":  null,
+                                              "stargazers_count":  47,
+                                              "html_url":  "https://github.com/developit/microbundle-2"
+                                          }
+                                      ],
+                         "bio":  "I wrote Requests: HTTP for Humans and Pipenv. The only thing I really care about is user experience."
+                     },
+    "JamesNK":  {
+                    "name":  "James Newton-King",
+                    "blog":  "http://james.newtonking.com",
+                    "company":  "Microsoft",
+                    "location":  "Singapore",
+                    "topRepos":  [
+                                     {
+                                         "name":  "jamesnk.github.io",
+                                         "description":  "My personal blog",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/JamesNK/jamesnk.github.io"
+                                     },
+                                     {
+                                         "name":  "dotnet-docker",
+                                         "description":  "Official container images for .NET",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/JamesNK/dotnet-docker"
+                                     },
+                                     {
+                                         "name":  "opentelemetry-dotnet-contrib",
+                                         "description":  "This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.",
+                                         "stargazers_count":  1,
+                                         "html_url":  "https://github.com/JamesNK/opentelemetry-dotnet-contrib"
+                                     },
+                                     {
+                                         "name":  "markdig",
+                                         "description":  "A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/JamesNK/markdig"
+                                     },
+                                     {
+                                         "name":  "AspireCommunityToolkit",
+                                         "description":  "A community project with additional components and extensions for .NET Aspire",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/JamesNK/AspireCommunityToolkit"
+                                     }
+                                 ],
+                    "bio":  "Software Developer. Author of Json.NET."
+                },
+    "tj":  {
+               "name":  "TJ",
+               "blog":  "",
+               "company":  "Apex",
+               "location":  null,
+               "topRepos":  [
+                                {
+                                    "name":  "tj",
+                                    "description":  null,
+                                    "stargazers_count":  50,
+                                    "html_url":  "https://github.com/tj/tj"
+                                },
+                                {
+                                    "name":  "go-fixture",
+                                    "description":  "Go assertions against test fixtures with nice line diffs, and an -update flag for updating fixture or \"golden\" files.",
+                                    "stargazers_count":  26,
+                                    "html_url":  "https://github.com/tj/go-fixture"
+                                },
+                                {
+                                    "name":  "deno_website2",
+                                    "description":  "deno.land website ",
+                                    "stargazers_count":  1,
+                                    "html_url":  "https://github.com/tj/deno_website2"
+                                },
+                                {
+                                    "name":  "go-buffer",
+                                    "description":  "Generic buffer for batching entries, such as log events.",
+                                    "stargazers_count":  68,
+                                    "html_url":  "https://github.com/tj/go-buffer"
+                                },
+                                {
+                                    "name":  "spa",
+                                    "description":  "Tiny Single Page Application server for Go with `spa` command-line tool.",
+                                    "stargazers_count":  91,
+                                    "html_url":  "https://github.com/tj/spa"
+                                }
+                            ],
+               "bio":  null
+           },
+    "pydanny":  {
+                    "name":  "Daniel Roy Greenfeld",
+                    "blog":  "https://daniel.feldroy.com",
+                    "company":  null,
+                    "location":  null,
+                    "topRepos":  [
+                                     {
+                                         "name":  "airsqlmodel",
+                                         "description":  "Integration layer between Air and SQLModel",
+                                         "stargazers_count":  4,
+                                         "html_url":  "https://github.com/pydanny/airsqlmodel"
+                                     },
+                                     {
+                                         "name":  "sample_actioner",
+                                         "description":  null,
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/pydanny/sample_actioner"
+                                     },
+                                     {
+                                         "name":  "fastapi_asyncpg",
+                                         "description":  "asyncpg integration for fastapi",
+                                         "stargazers_count":  0,
+                                         "html_url":  "https://github.com/pydanny/fastapi_asyncpg"
+                                     },
+                                     {
+                                         "name":  "daniel.feldroy.com",
+                                         "description":  null,
+                                         "stargazers_count":  1,
+                                         "html_url":  "https://github.com/pydanny/daniel.feldroy.com"
+                                     },
+                                     {
+                                         "name":  "fastapi-tags",
+                                         "description":  "Adds fastcore fast tags to FastAPI views.",
+                                         "stargazers_count":  7,
+                                         "html_url":  "https://github.com/pydanny/fastapi-tags"
+                                     }
+                                 ],
+                    "bio":  "Husband of @audreyfeldroy ?뮊, father of Uma ?쎍, Co-Author of Two Scoops of Django, formerly @nasa and @kraken-tech "
+                },
+    "kelseyhightower":  {
+                            "name":  "Kelsey Hightower",
+                            "blog":  "",
+                            "company":  null,
+                            "location":  "Washington",
+                            "topRepos":  [
+                                             {
+                                                 "name":  "cue-labs-example",
+                                                 "description":  null,
+                                                 "stargazers_count":  4,
+                                                 "html_url":  "https://github.com/kelseyhightower/cue-labs-example"
+                                             },
+                                             {
+                                                 "name":  "go-version-action",
+                                                 "description":  "Simple Github Action that prints the go version.",
+                                                 "stargazers_count":  15,
+                                                 "html_url":  "https://github.com/kelseyhightower/go-version-action"
+                                             },
+                                             {
+                                                 "name":  "buildinfo",
+                                                 "description":  null,
+                                                 "stargazers_count":  29,
+                                                 "html_url":  "https://github.com/kelseyhightower/buildinfo"
+                                             },
+                                             {
+                                                 "name":  "hello-cuelang",
+                                                 "description":  "Learning CUE in public",
+                                                 "stargazers_count":  30,
+                                                 "html_url":  "https://github.com/kelseyhightower/hello-cuelang"
+                                             },
+                                             {
+                                                 "name":  "pong",
+                                                 "description":  null,
+                                                 "stargazers_count":  0,
+                                                 "html_url":  "https://github.com/kelseyhightower/pong"
+                                             }
+                                         ],
+                            "bio":  null
+                        },
+    "brendangregg":  {
+                         "name":  "Brendan Gregg",
+                         "blog":  "http://www.brendangregg.com",
+                         "company":  "Intel",
+                         "location":  "Sydney, Australia",
+                         "topRepos":  [
+                                          {
+                                              "name":  "bpf-typewriter",
+                                              "description":  "BPF noisy typewriter (bpftrace)",
+                                              "stargazers_count":  23,
+                                              "html_url":  "https://github.com/brendangregg/bpf-typewriter"
+                                          },
+                                          {
+                                              "name":  "bpftrace-tetris",
+                                              "description":  null,
+                                              "stargazers_count":  3,
+                                              "html_url":  "https://github.com/brendangregg/bpftrace-tetris"
+                                          },
+                                          {
+                                              "name":  "bpf-perf-workshop",
+                                              "description":  null,
+                                              "stargazers_count":  188,
+                                              "html_url":  "https://github.com/brendangregg/bpf-perf-workshop"
+                                          },
+                                          {
+                                              "name":  "hexyl",
+                                              "description":  "A command-line hex viewer",
+                                              "stargazers_count":  4,
+                                              "html_url":  "https://github.com/brendangregg/hexyl"
+                                          },
+                                          {
+                                              "name":  "bpf-docs",
+                                              "description":  "Presentations and docs",
+                                              "stargazers_count":  11,
+                                              "html_url":  "https://github.com/brendangregg/bpf-docs"
+                                          }
+                                      ],
+                         "bio":  "Cloud computing performance engineer."
+                     },
+    "evanw":  {
+                  "name":  "Evan Wallace",
+                  "blog":  "https://madebyevan.com/",
+                  "company":  null,
+                  "location":  "San Francisco",
+                  "topRepos":  [
+                                   {
+                                       "name":  "miniffi",
+                                       "description":  null,
+                                       "stargazers_count":  375,
+                                       "html_url":  "https://github.com/evanw/miniffi"
+                                   },
+                                   {
+                                       "name":  "TypeScript-TmLanguage",
+                                       "description":  "TextMate grammar files for TypeScript for VS Code, Sublime Text, and Atom.",
+                                       "stargazers_count":  1,
+                                       "html_url":  "https://github.com/evanw/TypeScript-TmLanguage"
+                                   },
+                                   {
+                                       "name":  "TypeScript",
+                                       "description":  "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                                       "stargazers_count":  1,
+                                       "html_url":  "https://github.com/evanw/TypeScript"
+                                   },
+                                   {
+                                       "name":  "decorator-tests",
+                                       "description":  null,
+                                       "stargazers_count":  35,
+                                       "html_url":  "https://github.com/evanw/decorator-tests"
+                                   },
+                                   {
+                                       "name":  "romainmenke-css-import-tests",
+                                       "description":  "Tests for at-import in CSS",
+                                       "stargazers_count":  0,
+                                       "html_url":  "https://github.com/evanw/romainmenke-css-import-tests"
+                                   }
+                               ],
+                  "bio":  null
+              }
+}
