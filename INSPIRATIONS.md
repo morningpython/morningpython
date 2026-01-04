@@ -1,3 +1,342 @@
+# 🌟 Inspirations
+
+A curated collection of brilliant developers who have inspired and taught me throughout my journey, organized by category.
+
+---
+
+## 🐍 Python & Data Science
+
+### Armin Ronacher ([@mitsuhiko](https://github.com/mitsuhiko))
+**Creator of Flask, Click, and Jinja**
+
+A legendary Python developer from Germany. Created Flask web framework, Jinja template engine, Click CLI framework, and other essential tools in the modern Python ecosystem.
+
+**Key Projects:**
+- [**Flask**](https://github.com/pallets/flask) ⭐ 68.9k - Python micro web framework
+- [**Click**](https://github.com/pallets/click) ⭐ 16k - Beautiful command-line interface creation tool
+- [**Rye**](https://github.com/mitsuhiko/rye) ⭐ 14.5k - Next-generation Python project management
+- [**Jinja**](https://github.com/pallets/jinja) ⭐ 10.5k - Template engine for Python
+
+---
+
+### Simon Willison ([@simonw](https://github.com/simonw))
+**Django Co-creator, Data Journalism Pioneer**
+
+Co-creator of Django framework and innovator in data journalism. Introduced a new paradigm in data sharing and exploration with Datasette.
+
+**Key Projects:**
+- [**Datasette**](https://github.com/simonw/datasette) ⭐ 9.6k - Instant JSON API for SQLite databases
+- [**LLM**](https://github.com/simonw/llm) ⭐ 5.3k - Interact with large language models from CLI
+- [**sqlite-utils**](https://github.com/simonw/sqlite-utils) ⭐ 1.7k - SQLite database manipulation tool
+
+---
+
+### Kenneth Reitz ([@kennethreitz](https://github.com/kennethreitz))
+**Creator of Requests, "For Humans" Philosophy**
+
+Famous for "for humans, by humans" code philosophy. Revolutionized HTTP communication with the Requests library.
+
+**Key Projects:**
+- [**Requests**](https://github.com/psf/requests) ⭐ 52.4k - HTTP library for humans
+- [**Pipenv**](https://github.com/pypa/pipenv) ⭐ 24.9k - Python dependency management tool
+- [**Records**](https://github.com/kennethreitz/records) ⭐ 7.2k - Human-friendly SQL library
+
+---
+
+### Daniel Roy Greenfeld ([@pydanny](https://github.com/pydanny))
+**Two Scoops of Django Author, Django & Python Evangelist**
+
+Key figure in Django community and author of "Two Scoops of Django." Dedicated to spreading Python and Django best practices.
+
+**Key Projects:**
+- [**cookiecutter**](https://github.com/cookiecutter/cookiecutter) ⭐ 23.2k - Project template creation tool
+- [**cookiecutter-django**](https://github.com/cookiecutter/cookiecutter-django) ⭐ 12.2k - Django project template
+
+---
+
+### Will McGugan ([@willmcgugan](https://github.com/willmcgugan))
+**Creator of Rich & Textual, TUI Innovator**
+
+Developer who ushered in a new era of terminal UIs. Made beautiful user experiences possible in terminals with Rich and Textual.
+
+**Key Projects:**
+- [**Rich**](https://github.com/Textualize/rich) ⭐ 50.1k - Rich text and beautiful formatting for terminals
+- [**Textual**](https://github.com/Textualize/textual) ⭐ 26.4k - Text User Interface framework for Python
+
+---
+
+### David Halter ([@davidhalter](https://github.com/davidhalter))
+**Creator of Jedi, Python Autocompletion Pioneer**
+
+Developer who built the core foundation of Python development tools. Jedi powers Python autocompletion in all major editors including VS Code, Vim, and Emacs.
+
+**Key Projects:**
+- [**Jedi**](https://github.com/davidhalter/jedi) ⭐ 5.8k - Autocompletion and static analysis library for Python
+- [**parso**](https://github.com/davidhalter/parso) ⭐ 500+ - Python parser
+
+---
+
+## 🤖 AI & Machine Learning
+
+### Andrej Karpathy ([@karpathy](https://github.com/karpathy))
+**Former Tesla AI Director, Deep Learning Educator**
+
+AI researcher and educator who served as Tesla's AI Director and played key roles at OpenAI. Famous for making complex AI concepts accessible to everyone.
+
+**Key Projects:**
+- [**nanoGPT**](https://github.com/karpathy/nanoGPT) ⭐ 38.5k - Simplest, fastest repository for training GPT
+- [**micrograd**](https://github.com/karpathy/micrograd) ⭐ 11.3k - Tiny autograd engine for education
+- [**minbpe**](https://github.com/karpathy/minbpe) ⭐ 9.6k - Minimal Byte Pair Encoding implementation
+- [**makemore**](https://github.com/karpathy/makemore) ⭐ 6.3k - Character-level language model training
+
+---
+
+### Pete Warden ([@petewarden](https://github.com/petewarden))
+**TensorFlow Core Contributor, Edge AI Pioneer**
+
+Engineer who led TensorFlow development at Google and pioneered the Edge AI field. Enabled ML utilization on embedded systems.
+
+**Key Projects:**
+- [**TensorFlow for Microcontrollers**](https://github.com/tensorflow/tflite-micro) - TensorFlow for microcontrollers
+- **"TinyML" Author** - Bible of Edge AI
+
+---
+
+### Michael Nielsen ([@mnielsen](https://github.com/mnielsen))
+**Neural Networks and Deep Learning Author, Quantum Computing Researcher**
+
+Educator who explains complex neural networks and deep learning concepts beautifully and intuitively. His online book became the entry point for countless AI engineers.
+
+**Key Work:**
+- [**Neural Networks and Deep Learning**](http://neuralnetworksanddeeplearning.com/) - Free online deep learning textbook
+
+---
+
+### Sung Kim ([@hunkim](https://github.com/hunkim))
+**Deep Learning for Everyone Instructor, Korean AI Education Pioneer**
+
+Professor at HKUST and icon of Korean AI education. Opened the door to AI for countless Korean developers with "Deep Learning for Everyone" lectures.
+
+**Key Projects:**
+- [**DeepLearningZeroToAll**](https://github.com/hunkim/DeepLearningZeroToAll) ⭐ 4.2k - TensorFlow deep learning course
+- [**PyTorchZeroToAll**](https://github.com/hunkim/PyTorchZeroToAll) ⭐ 2.8k - PyTorch deep learning course
+
+---
+
+## 🎨 Frontend & JavaScript
+
+### TJ Holowaychuk ([@tj](https://github.com/tj))
+**Creator of Express.js, Mocha, Commander.js**
+
+Legendary developer in Node.js ecosystem. Revolutionized web server development with Express.js, then moved to Go and continues creating influential projects.
+
+**Key Projects:**
+- [**Express.js**](https://github.com/expressjs/express) ⭐ 66.2k - Node.js web framework
+- [**Mocha**](https://github.com/mochajs/mocha) ⭐ 22.7k - JavaScript testing framework
+- [**Commander.js**](https://github.com/tj/commander.js) ⭐ 27.2k - Node.js CLI solution
+- [**Apex**](https://github.com/apex/apex) ⭐ 8.2k - AWS Lambda management tool (Go)
+
+---
+
+### Sindre Sorhus ([@sindresorhus](https://github.com/sindresorhus))
+**Creator of 1,000+ npm Packages, Open Source Legend**
+
+One of the most prolific open-source developers. Created over 1,000 high-quality npm packages that form the foundation of JavaScript projects worldwide.
+
+**Key Projects:**
+- [**Awesome**](https://github.com/sindresorhus/awesome) ⭐ 345k - Curated list of awesome lists
+- [**chalk**](https://github.com/chalk/chalk) ⭐ 22.1k - Terminal string styling
+- [**ora**](https://github.com/sindresorhus/ora) ⭐ 9.2k - Elegant terminal spinner
+- [**meow**](https://github.com/sindresorhus/meow) ⭐ 3.6k - CLI app helper
+
+---
+
+### Rich Harris ([@Rich-Harris](https://github.com/Rich-Harris))
+**Creator of Svelte & Rollup, Frontend Innovator**
+
+Developer who changed the frontend framework paradigm with Svelte and revolutionized module bundling with Rollup. Currently developing next-gen web tech at Vercel.
+
+**Key Projects:**
+- [**Svelte**](https://github.com/sveltejs/svelte) ⭐ 81.9k - Cybernetically enhanced web apps
+- [**Rollup**](https://github.com/rollup/rollup) ⭐ 25.4k - Next-generation module bundler
+- [**SvelteKit**](https://github.com/sveltejs/kit) ⭐ 18.9k - Full-stack framework for Svelte
+
+---
+
+### Jason Miller ([@developit](https://github.com/developit))
+**Creator of Preact, Performance Optimization Expert**
+
+Developer who created Preact, a lightweight and fast React alternative. Raised awareness of web performance optimization and small bundle sizes. Currently working on Google Chrome team.
+
+**Key Projects:**
+- [**Preact**](https://github.com/preactjs/preact) ⭐ 37k - Fast 3kB React alternative
+- [**wmr**](https://github.com/preactjs/wmr) ⭐ 5.2k - Minimal web development tool
+- [**mitt**](https://github.com/developit/mitt) ⭐ 5.2k - Tiny event emitter
+
+---
+
+### Evan Wallace ([@evanw](https://github.com/evanw))
+**Creator of esbuild, Figma Co-founder**
+
+Co-founder and CTO of Figma. Revolutionized frontend development workflow by improving build tool performance 10-100x with esbuild.
+
+**Key Projects:**
+- [**esbuild**](https://github.com/evanw/esbuild) ⭐ 38.9k - Ultra-fast JavaScript bundler written in Go
+- [**Figma**](https://www.figma.com/) - Collaborative design tool (Co-founder)
+
+---
+
+### Paul Miller ([@paulmillr](https://github.com/paulmillr))
+**Creator of Brunch, chokidar, Web Tools Developer**
+
+Developer active in web development tools and cryptography libraries. Created the standard for file watching systems.
+
+**Key Projects:**
+- [**chokidar**](https://github.com/paulmillr/chokidar) ⭐ 10.7k - Efficient cross-platform file watching library
+- [**noble-secp256k1**](https://github.com/paulmillr/noble-secp256k1) ⭐ 740+ - Fast secp256k1 elliptic curve library
+
+---
+
+## 💻 .NET & C#
+
+### James Newton-King ([@JamesNK](https://github.com/JamesNK))
+**Creator of Json.NET, Microsoft .NET Team**
+
+Developer who created the most widely used JSON library in .NET ecosystem. Currently leading gRPC and ASP.NET Core development at Microsoft.
+
+**Key Projects:**
+- [**Newtonsoft.Json**](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 10.8k - Popular JSON framework for .NET
+- [**grpc-dotnet**](https://github.com/grpc/grpc-dotnet) ⭐ 4.2k - gRPC for .NET
+
+---
+
+## 🔧 DevOps & Infrastructure
+
+### Vincent Van Der Weele ([@nvie](https://github.com/nvie))
+**Git-flow Workflow Creator, Python Tools Developer**
+
+Developer who proposed Git-flow, which became the standard Git branching strategy. Also developed Python Redis client and job queue system.
+
+**Key Projects:**
+- [**gitflow**](https://github.com/nvie/gitflow) ⭐ 26.6k - Git branching model extensions
+- [**rq**](https://github.com/rq/rq) ⭐ 9.9k - Simple job queue for Python
+
+---
+
+### Kelsey Hightower ([@kelseyhightower](https://github.com/kelseyhightower))
+**Kubernetes Evangelist, Cloud Native Pioneer**
+
+Legendary engineer who evangelized Kubernetes and cloud-native technologies at Google. His tutorials and talks inspired countless DevOps engineers.
+
+**Key Projects:**
+- [**kubernetes-the-hard-way**](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 42.2k - Complete Kubernetes understanding tutorial
+- [**confd**](https://github.com/kelseyhightower/confd) ⭐ 8.3k - Configuration management tool
+
+---
+
+### Brendan Gregg ([@brendangregg](https://github.com/brendangregg))
+**Performance Analysis Master, Flame Graph Creator**
+
+Engineer who revolutionized system performance analysis at Netflix, Intel, and Sun. Invented Flame Graphs to bring performance analysis visualization to a new dimension.
+
+**Key Projects:**
+- [**FlameGraph**](https://github.com/brendangregg/FlameGraph) ⭐ 17.5k - Profiling data visualization
+- **"Systems Performance" Author** - Bible of system performance analysis
+
+---
+
+### Alex Goodman ([@wagoodman](https://github.com/wagoodman))
+**Creator of Dive & Syft, Container Tools Developer**
+
+Developer who created Docker image analysis and SBOM generation tools. Contributing to container security and optimization.
+
+**Key Projects:**
+- [**dive**](https://github.com/wagoodman/dive) ⭐ 47.9k - Docker image layer analysis tool
+- [**syft**](https://github.com/anchore/syft) ⭐ 6.5k - SBOM generator for container images and filesystems
+
+---
+
+## 🛠️ Tools & Utilities
+
+### Anton Medvedev ([@antonmedv](https://github.com/antonmedv))
+**Creator of fx, gron, CLI Tools Craftsman**
+
+Developer who revolutionized JSON processing in terminals. Creates beautiful and practical CLI tools.
+
+**Key Projects:**
+- [**fx**](https://github.com/antonmedv/fx) ⭐ 19.2k - Terminal JSON viewer
+- [**walk**](https://github.com/antonmedv/walk) ⭐ 3.3k - Terminal file manager
+
+---
+
+### Tristan Hume ([@trishume](https://github.com/trishume))
+**Syntect, Text Editor Technology Researcher**
+
+Developer who created high-performance syntax highlighting library in Rust. Has deep insights into text editor and programming tool technologies.
+
+**Key Projects:**
+- [**syntect**](https://github.com/trishume/syntect) ⭐ 1.9k - Rust syntax highlighting library using Sublime Text syntax definitions
+- Various text editor technology research
+
+---
+
+### Hyunwoo Park ([@kewlbear](https://github.com/kewlbear))
+**Korean iOS/Audio Development Community Leader**
+
+Korean developer active in iOS development and audio processing. Contributed to mobile multimedia development with Swift/iOS ports of FFmpeg and OpenH264.
+
+**Key Projects:**
+- [**FFmpeg-iOS-build-script**](https://github.com/kewlbear/FFmpeg-iOS-build-script) ⭐ 3.1k - FFmpeg build script for iOS
+- iOS audio/video processing libraries
+
+---
+
+## 🏢 Organizations
+
+### HashiCorp ([@hashicorp](https://github.com/hashicorp))
+**Infrastructure Automation Pioneer**
+
+Company that created Terraform, Vault, Consul and other core tools for modern infrastructure automation. Established standards for DevOps and cloud infrastructure management.
+
+**Key Projects:**
+- [**Terraform**](https://github.com/hashicorp/terraform) ⭐ 43.9k - Infrastructure as Code
+- [**Vault**](https://github.com/hashicorp/vault) ⭐ 31.7k - Secrets management tool
+- [**Consul**](https://github.com/hashicorp/consul) ⭐ 28.7k - Service mesh solution
+
+---
+
+### Unity Technologies ([@Unity-Technologies](https://github.com/Unity-Technologies))
+**Game Engine and Real-time 3D Platform**
+
+Company that developed the world's most widely used game engine. Utilized not only in games but also in AR/VR, architecture, film, and various other fields.
+
+**Key Projects:**
+- [**Unity**](https://unity.com/) - Cross-platform game engine
+- [**ML-Agents**](https://github.com/Unity-Technologies/ml-agents) ⭐ 17.5k - Machine learning agents for Unity
+
+---
+
+## 🎯 In Closing
+
+These individuals went beyond simply writing code in their respective fields — they **created philosophy and culture**.
+
+- **Armin Ronacher's** "Beautiful is better than ugly" (Flask philosophy)
+- **Kenneth Reitz's** "For Humans" (user-centered design)
+- **Andrej Karpathy's** dedication to education
+- **TJ Holowaychuk's** relentless innovation
+- **Sindre Sorhus's** obsession with quality
+- **Sung Kim's** spirit of knowledge sharing
+
+What I learned from them is not just **technology, but attitude**.
+Good software is born when we understand users, penetrate to the essence of problems, and pursue both beauty and practicality.
+
+---
+
+*"We stand on the shoulders of giants."* 🙏
+
+---
+---
+
 # 🌟 영감을 주신 고마운 분들
 
 개발자로서의 여정에서 영감과 배움을 주신 훌륭한 개발자들을 카테고리별로 정리했습니다.
