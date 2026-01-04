@@ -89,8 +89,8 @@ AI/ML · NLP · Computer Vision · Reinforcement Learning · Fintech · Web3 · 
 **Fidelity Investments** (Current) — Fintech Architect  
 Managing systems for $6.4T AUM / $16.4T AUA · Architecting data sovereignty in global finance
 
-**Samsung Electronics** — Manufacturing AI Architect  
-Transformed production floor wisdom into AI-ready data systems · Korean industrial craftsmanship meets ML
+**Samsung Electronics** — Manufacturing Data Architect  
+Laid the foundation for AI-ready manufacturing data systems · Pioneered the integration of Korean industrial craftsmanship with emerging ML principles
 
 **Microsoft** — Global Platform Engineer  
 Managed systems serving hundreds of millions · Experienced the power and peril of platform dependency
@@ -205,8 +205,8 @@ Samsung, Microsoft, Fidelity를 거쳐 25년간 시스템을 지휘해온 엔지
 **Fidelity Investments** (현재) — 핀테크 아키텍트  
 $6.4조 AUM / $16.4조 AUA 시스템 관리 · 글로벌 금융의 데이터 주권 아키텍처 설계
 
-**Samsung Electronics** — 제조 AI 아키텍트  
-생산 현장의 장인 지혜를 AI 데이터 시스템으로 전환 · 한국 산업 장인정신과 ML의 만남
+**Samsung Electronics** — 제조 데이터 아키텍트  
+생산 현장 데이터의 AI 활용 기반 마련 · 한국 산업 장인정신과 ML 원칙의 통합 선도
 
 **Microsoft** — 글로벌 플랫폼 엔지니어  
 수억 명이 사용하는 시스템 관리 · 플랫폼 의존성의 힘과 위험을 경험
