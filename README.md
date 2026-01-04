@@ -83,9 +83,7 @@ AI/ML · NLP · Computer Vision · Reinforcement Learning · Fintech · Web3 · 
 
 ## 📫 Contact
 
-- 📧 Email: (add if desired)
-- 🌐 Website/Blog: (add if desired)
-- 💼 LinkedIn: (add if desired)
+- 📧 Email: morningjava@nave.com
 
 ---
 
@@ -179,9 +177,7 @@ AI/ML · NLP · Computer Vision · Reinforcement Learning · Fintech · Web3 · 
 
 ## 📫 연락
 
-- 📧 Email: (원하시면 추가)
-- 🌐 Website/Blog: (원하시면 추가)
-- 💼 LinkedIn: (원하시면 추가)
+- 📧 Email: morningjava@naver.com
 
 ---
 
