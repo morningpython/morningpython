@@ -100,12 +100,6 @@ AI/ML · NLP · Computer Vision · Reinforcement Learning · Fintech · Web3 · 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morningpython&show_icons=true&theme=radical)
-
----
-
 ## 🌟 Career Journey
 
 **Fidelity Investments** (Current) — Fintech Architect  
